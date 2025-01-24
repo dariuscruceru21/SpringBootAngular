@@ -2,7 +2,7 @@ package com.dariuscruceru.employeemanager.Service;
 
 import com.dariuscruceru.employeemanager.Exception.UserNotFoundException;
 import com.dariuscruceru.employeemanager.Repository.EmployeRepository;
-import com.dariuscruceru.employeemanager.model.Employee;
+import com.dariuscruceru.employeemanager.Model.Employee;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

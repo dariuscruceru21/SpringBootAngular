@@ -1,4 +1,4 @@
-package com.dariuscruceru.employeemanager.model;
+package com.dariuscruceru.employeemanager.Model;
 
 
 
